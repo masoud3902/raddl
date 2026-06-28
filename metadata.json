@@ -1,0 +1,6 @@
+{
+  "name": "RJ Finder",
+  "description": "جستجو و دانلود غیرمستقیم موزیک و پادکست با نرخ یادگیری موفقیت سایت‌ها",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
